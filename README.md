@@ -1,5 +1,4 @@
-# lordsoftheday
-Lords of the Day
+# Lords of the Day
 
 1. Xiuhtecuhtli - god of fire and time.
 2. Tlaltecuhtli - god of the earth.
